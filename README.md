@@ -26,3 +26,4 @@ Please write your favorite number！
 - 8
 - 15
 - 1551
+- 24
